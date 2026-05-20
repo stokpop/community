@@ -106,6 +106,8 @@ areas:
     github: ivo1116
   - name: Kiril Keranov
     github: kiril-keranov
+  - name: Peter Paul Bakker
+    github: stokpop
   repositories:
   - cloudfoundry/go-buildpack
   - cloudfoundry/go-buildpack-release
